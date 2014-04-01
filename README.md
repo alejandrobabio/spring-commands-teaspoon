@@ -22,4 +22,7 @@ At command line
 ```
 $ spring teaspoon
 ```
+## Credits
+
+Jon Leighton's work on [Spring](https://github.com/rails/spring).
 
